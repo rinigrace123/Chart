@@ -21,3 +21,6 @@
 
 
 8.After that the chart is deployed successfully.
+
+Link: https://dev.d1fybclo90f36y.amplifyapp.com/ 
+
